@@ -1,0 +1,49 @@
+{
+  "expo":{
+    "name": "ImpulsoChiapas",
+    "slug": "ImpulsoChiapas",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "description": "Impulso Chiapas A.C.",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Gto192-AC.png",
+    "splash": {
+      "image": "./assets/Sedeshu-AC.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.impulsochiapas.app",
+      "versionCode": 25,
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "CAMERA",
+        "MANAGE_DOCUMENTS",
+        "READ_CONTACTS",
+        "READ_CALENDAR",
+        "WRITE_CALENDAR",
+        "READ_EXTERNAL_STORAGE",
+        "READ_PHONE_STATE",
+        "RECORD_AUDIO",
+        "USE_FINGERPRINT",
+        "VIBRATE",
+        "WAKE_LOCK",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    }
+  }
+}

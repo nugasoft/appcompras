@@ -1,0 +1,1511 @@
+{
+    "Personas": [
+        {
+            "id": "10",
+            "CURP": "",
+            "Nombre": "FERNANDO",
+            "Paterno": "FERNANDEZ",
+            "Materno": "LOPEZ",
+            "Sexo": "M",
+            "FechaNacimiento": "1976-02-10",
+            "idEntidadNacimiento": {
+                "id": 13,
+                "Estado": "Hidalgo",
+                "Clave": "13"
+            },
+            "TelCasa": "",
+            "TelCelular": "4971124396",
+            "Calle": "CALLE BENITO JUAREZ",
+            "NumExt": "504",
+            "NumInt": "",
+            "Colonia": "Colonia Venta Prieta",
+            "CP": "42083",
+            "idMunicipio": {
+                "id": 523,
+                "Municipio":"Pachuca de Soto",
+                "Clave":"48"
+            },
+            "idLocalidad": {
+                "mapa":"130480001",
+                "idEstado": 13,
+                "cve_ent": "13",
+                "Entidad": "Hidalgo",
+                "nom_abr":"Hgo.",
+                "idMunicipio": 523,
+                "cve_mun":"048",
+                "Municipio":"Pachuca de Soto",
+                "cve_loc":"0001",
+                "nom_loc":"Pachuca de Soto",
+                "Ambito":"U",
+                "lat_decimal":"20.12236000",
+                "lon_decimal":"-98.73700100",
+                "PoblacionTotal":"256584",
+                "PoblacionMasculina":"121719",
+                "PoblacionFemenina":"134865",
+                "TotalViviendasHabitadas":"70037"
+
+            },
+            "created_at": "19/4/2020 19:19:33",
+            "updated_at": "19/4/2020 19:19:38",
+            "UserCreated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            },
+            "UserUpdated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            }
+        },
+        {
+            "id": "27",
+            "CURP": "",
+            "Nombre": "SUCEL CARMINA",
+            "Paterno": "JIMENEZ",
+            "Materno": "SALAZAR",
+            "Sexo": "F",
+            "FechaNacimiento": "1998-01-01",
+            "idEntidadNacimiento": {
+                "id":"7",
+                "Estado": "Chiapas",
+                "Clave": "07"
+            },
+            "TelCasa": "",
+            "TelCelular": "9611904832",
+            "Calle": "CALLE ABCDARIO NORTE",
+            "NumExt": "203",
+            "NumInt": "",
+            "Colonia": "COL. PATRIA NUEVA",
+            "CP": "29045",
+            "idMunicipio": {
+                "id": 92,
+                "Municipio":"Tuxtla Gutierrez",
+                "Clave":"101"
+            },
+            "idLocalidad": {
+                "mapa":"071010001",
+                "idEstado": 7,
+                "cve_ent": "07",
+                "Entidad": "CHIAPAS",
+                "nom_abr":"Chis.",
+                "idMunicipio": 92,
+                "cve_mun":"101",
+                "Municipio":"Tuxtla Gutiérrez",
+                "cve_loc":"0001",
+                "nom_loc":"Tuxtla Gutiérrez",
+                "Ambito":"U",
+                "lat_decimal":"16.75397200",
+                "lon_decimal":"-93.11519200",
+                "PoblacionTotal":"537102",
+                "PoblacionMasculina":"255879",
+                "PoblacionFemenina":"281223",
+                "TotalViviendasHabitadas":"140069"
+
+            },
+            "created_at": "19/4/2020 19:45:12",
+            "updated_at": "19/4/2020 19:45:16",
+            "UserCreated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            },
+            "UserUpdated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            }
+        },
+        {
+            "id": "28",
+            "CURP": "",
+            "Nombre": "DAIRA KARINA",
+            "Paterno": "VELAZCO",
+            "Materno": "SANCHEZ",
+            "Sexo": "F",
+            "FechaNacimiento": "2009-01-01",
+            "idEntidadNacimiento": {
+                "id":"7",
+                "Estado": "Chiapas",
+                "Clave": "07"
+            },
+            "TelCasa": "",
+            "TelCelular": "9612548618",
+            "Calle": "PRIVADA SASAFRAS MZA 5",
+            "NumExt": "LT11",
+            "NumInt": "",
+            "Colonia": "COL PAULINO AGUILAR PANIAGUA",
+            "CP": "29049",
+            "idMunicipio": {
+                "id": 92,
+                "Municipio":"Tuxtla Gutierrez",
+                "Clave":"101"
+            },
+            "idLocalidad": {
+                "mapa":"071010001",
+                "idEstado": 7,
+                "cve_ent": "07",
+                "Entidad": "CHIAPAS",
+                "nom_abr":"Chis.",
+                "idMunicipio": 92,
+                "cve_mun":"101",
+                "Municipio":"Tuxtla Gutiérrez",
+                "cve_loc":"0001",
+                "nom_loc":"Tuxtla Gutiérrez",
+                "Ambito":"U",
+                "lat_decimal":"16.75397200",
+                "lon_decimal":"-93.11519200",
+                "PoblacionTotal":"537102",
+                "PoblacionMasculina":"255879",
+                "PoblacionFemenina":"281223",
+                "TotalViviendasHabitadas":"140069"
+
+            },
+            "created_at": "19/4/2020 19:47:29",
+            "updated_at": "19/4/2020 19:47:29",
+            "UserCreated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            },
+            "UserUpdated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            }
+        },
+        {
+            "id": "29",
+            "CURP": "",
+            "Nombre": "CESAR EVARISTO",
+            "Paterno": "QUIÑONES",
+            "Materno": "MAGDALENA",
+            "Sexo": "M",
+            "FechaNacimiento": "1995-01-01",
+            "idEntidadNacimiento": {
+                "id":"7",
+                "Estado": "Chiapas",
+                "Clave": "07"
+            },
+            "TelCasa": "",
+            "TelCelular": "9613595653",
+            "Calle": "AVE. SAUCE 5A ",
+            "NumExt": "111",
+            "NumInt": "",
+            "Colonia": "COL. ALBANIA BAJA",
+            "CP": "29010",
+            "idMunicipio": {
+                "id": 92,
+                "Municipio":"Tuxtla Gutierrez",
+                "Clave":"101"
+            },
+            "idLocalidad": {
+                "mapa":"071010001",
+                "idEstado": 7,
+                "cve_ent": "07",
+                "Entidad": "CHIAPAS",
+                "nom_abr":"Chis.",
+                "idMunicipio": 92,
+                "cve_mun":"101",
+                "Municipio":"Tuxtla Gutiérrez",
+                "cve_loc":"0001",
+                "nom_loc":"Tuxtla Gutiérrez",
+                "Ambito":"U",
+                "lat_decimal":"16.75397200",
+                "lon_decimal":"-93.11519200",
+                "PoblacionTotal":"537102",
+                "PoblacionMasculina":"255879",
+                "PoblacionFemenina":"281223",
+                "TotalViviendasHabitadas":"140069"
+
+            },
+            "created_at": "19/4/2020 19:47:29",
+            "updated_at": "19/4/2020 19:47:29",
+            "UserCreated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            },
+            "UserUpdated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            }
+        },
+        {
+            "id": "30",
+            "CURP": "",
+            "Nombre": "JUAN CARLOS",
+            "Paterno": "AQUINO",
+            "Materno": "HERNANDEZ",
+            "Sexo": "M",
+            "FechaNacimiento": "1980-01-01",
+            "idEntidadNacimiento": {
+                "id":"7",
+                "Estado": "Chiapas",
+                "Clave": "07"
+            },
+            "TelCasa": "",
+            "TelCelular": "9612600880",
+            "Calle": "AVE. LOS ALMENDROS ",
+            "NumExt": "195",
+            "NumInt": "",
+            "Colonia": "COL.SAN FERNANDO",
+            "CP": "29010",
+            "idMunicipio": {
+                "id": 92,
+                "Municipio":"Tuxtla Gutierrez",
+                "Clave":"101"
+            },
+            "idLocalidad": {
+                "mapa":"071010001",
+                "idEstado": 7,
+                "cve_ent": "07",
+                "Entidad": "CHIAPAS",
+                "nom_abr":"Chis.",
+                "idMunicipio": 92,
+                "cve_mun":"101",
+                "Municipio":"Tuxtla Gutiérrez",
+                "cve_loc":"0001",
+                "nom_loc":"Tuxtla Gutiérrez",
+                "Ambito":"U",
+                "lat_decimal":"16.75397200",
+                "lon_decimal":"-93.11519200",
+                "PoblacionTotal":"537102",
+                "PoblacionMasculina":"255879",
+                "PoblacionFemenina":"281223",
+                "TotalViviendasHabitadas":"140069"
+
+            },
+            "created_at": "19/4/2020 19:47:29",
+            "updated_at": "19/4/2020 19:47:29",
+            "UserCreated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            },
+            "UserUpdated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            }
+        },
+        {
+            "id": "31",
+            "CURP": "",
+            "Nombre": "JAQUELINE",
+            "Paterno": "LOPEZ",
+            "Materno": "ROMERO",
+            "Sexo": "F",
+            "FechaNacimiento": "1983-01-01",
+            "idEntidadNacimiento": {
+                "id":"7",
+                "Estado": "Chiapas",
+                "Clave": "07"
+            },
+            "TelCasa": "",
+            "TelCelular": "9612609945",
+            "Calle": "12 NTE ENTRE 4AY 5APTE",
+            "NumExt": "NA",
+            "NumInt": "",
+            "Colonia": "COL. CENTRO",
+            "CP": "29000",
+            "idMunicipio": {
+                "id": 92,
+                "Municipio":"Tuxtla Gutierrez",
+                "Clave":"101"
+            },
+            "idLocalidad": {
+                "mapa":"071010001",
+                "idEstado": 7,
+                "cve_ent": "07",
+                "Entidad": "CHIAPAS",
+                "nom_abr":"Chis.",
+                "idMunicipio": 92,
+                "cve_mun":"101",
+                "Municipio":"Tuxtla Gutiérrez",
+                "cve_loc":"0001",
+                "nom_loc":"Tuxtla Gutiérrez",
+                "Ambito":"U",
+                "lat_decimal":"16.75397200",
+                "lon_decimal":"-93.11519200",
+                "PoblacionTotal":"537102",
+                "PoblacionMasculina":"255879",
+                "PoblacionFemenina":"281223",
+                "TotalViviendasHabitadas":"140069"
+
+            },
+            "created_at": "19/4/2020 19:47:29",
+            "updated_at": "19/4/2020 19:47:29",
+            "UserCreated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            },
+            "UserUpdated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            }
+        },
+        {
+            "id": "32",
+            "CURP": "",
+            "Nombre": "DIEGO ARMANDO",
+            "Paterno": "CRUZ",
+            "Materno": "ABARCA",
+            "Sexo": "M",
+            "FechaNacimiento": "2019-02-19",
+            "idEntidadNacimiento": {
+                "id":"7",
+                "Estado": "Chiapas",
+                "Clave": "07"
+            },
+            "TelCasa": "",
+            "TelCelular": "961434915",
+            "Calle": "CALLE SIN NOMBRE",
+            "NumExt": "NA",
+            "NumInt": "",
+            "Colonia": "BARRIO SAN PEDRO",
+            "CP": "29372",
+            "idMunicipio": {
+                "id": 147,
+                "Municipio":"Acala",
+                "Clave":"002"
+            },
+            "idLocalidad": {
+                "mapa":"070020001",
+                "idEstado": 7,
+                "cve_ent": "07",
+                "Entidad": "CHIAPAS",
+                "nom_abr":"Chis.",
+                "idMunicipio": 92,
+                "cve_mun":"002",
+                "Municipio":"Acala",
+                "cve_loc":"0001",
+                "nom_loc":"Acala",
+                "Ambito":"U",
+                "lat_decimal":"16.55167400",
+                "lon_decimal":"-92.80750800",
+                "PoblacionTotal":"13889",
+                "PoblacionMasculina":"6900",
+                "PoblacionFemenina":"6989",
+                "TotalViviendasHabitadas":"3457"
+
+            },
+            "created_at": "19/4/2020 19:47:29",
+            "updated_at": "19/4/2020 19:47:29",
+            "UserCreated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            },
+            "UserUpdated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            }
+        },
+        {
+            "id": "33",
+            "CURP": "",
+            "Nombre": "LUIS GABRIEL",
+            "Paterno": "VENTURA",
+            "Materno": "POSADA",
+            "Sexo": "M",
+            "FechaNacimiento": "1980-02-01",
+            "idEntidadNacimiento": {
+                "id":"7",
+                "Estado": "Chiapas",
+                "Clave": "07"
+            },
+            "TelCasa": "",
+            "TelCelular": "9612558701",
+            "Calle": "12 NTE 47A Y 5A PTE",
+            "NumExt": "NA",
+            "NumInt": "",
+            "Colonia": "COL. CENTRO",
+            "CP": "29000",
+            "idMunicipio": {
+                "id": 92,
+                "Municipio":"Tuxtla Gutierrez",
+                "Clave":"101"
+            },
+            "idLocalidad": {
+                "mapa":"071010001",
+                "idEstado": 7,
+                "cve_ent": "07",
+                "Entidad": "CHIAPAS",
+                "nom_abr":"Chis.",
+                "idMunicipio": 92,
+                "cve_mun":"101",
+                "Municipio":"Tuxtla Gutiérrez",
+                "cve_loc":"0001",
+                "nom_loc":"Tuxtla Gutiérrez",
+                "Ambito":"U",
+                "lat_decimal":"16.75397200",
+                "lon_decimal":"-93.11519200",
+                "PoblacionTotal":"537102",
+                "PoblacionMasculina":"255879",
+                "PoblacionFemenina":"281223",
+                "TotalViviendasHabitadas":"140069"
+
+            },
+            "created_at": "19/4/2020 19:47:29",
+            "updated_at": "19/4/2020 19:47:29",
+            "UserCreated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            },
+            "UserUpdated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            }
+        },
+        {
+            "id": "34",
+            "CURP": "",
+            "Nombre": "IRBIN FABIAN",
+            "Paterno": "TORRES",
+            "Materno": "ANGEL",
+            "Sexo": "M",
+            "FechaNacimiento": "1999-02-19",
+            "idEntidadNacimiento": {
+                "id":"7",
+                "Estado": "Chiapas",
+                "Clave": "07"
+            },
+            "TelCasa": "",
+            "TelCelular": "9612982193",
+            "Calle": "C. NOGAL SUR MZA 3",
+            "NumExt": "LT14",
+            "NumInt": "",
+            "Colonia": "PATRIA NUEVA",
+            "CP": "29045",
+            "idMunicipio": {
+                "id": 92,
+                "Municipio":"Tuxtla Gutierrez",
+                "Clave":"101"
+            },
+            "idLocalidad": {
+                "mapa":"071010001",
+                "idEstado": 7,
+                "cve_ent": "07",
+                "Entidad": "CHIAPAS",
+                "nom_abr":"Chis.",
+                "idMunicipio": 92,
+                "cve_mun":"101",
+                "Municipio":"Tuxtla Gutiérrez",
+                "cve_loc":"0001",
+                "nom_loc":"Tuxtla Gutiérrez",
+                "Ambito":"U",
+                "lat_decimal":"16.75397200",
+                "lon_decimal":"-93.11519200",
+                "PoblacionTotal":"537102",
+                "PoblacionMasculina":"255879",
+                "PoblacionFemenina":"281223",
+                "TotalViviendasHabitadas":"140069"
+
+            },
+            "created_at": "19/4/2020 19:47:29",
+            "updated_at": "19/4/2020 19:47:29",
+            "UserCreated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            },
+            "UserUpdated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            }
+        },
+        {
+            "id": "35",
+            "CURP": "",
+            "Nombre": "NAYELI",
+            "Paterno": "AREYANO",
+            "Materno": "DE LA ROS",
+            "Sexo": "F",
+            "FechaNacimiento": "1990-02-19",
+            "idEntidadNacimiento": {
+                "id":"7",
+                "Estado": "Chiapas",
+                "Clave": "07"
+            },
+            "TelCasa": "",
+            "TelCelular": "9612031833",
+            "Calle": "AVE. SANTA LUCIA",
+            "NumExt": "119",
+            "NumInt": "",
+            "Colonia": "FRACC. SANTA CLARA MIRADOR",
+            "CP": "29014",
+            "idMunicipio": {
+                "id": 92,
+                "Municipio":"Tuxtla Gutierrez",
+                "Clave":"101"
+            },
+            "idLocalidad": {
+                "mapa":"071010001",
+                "idEstado": 7,
+                "cve_ent": "07",
+                "Entidad": "CHIAPAS",
+                "nom_abr":"Chis.",
+                "idMunicipio": 92,
+                "cve_mun":"101",
+                "Municipio":"Tuxtla Gutiérrez",
+                "cve_loc":"0001",
+                "nom_loc":"Tuxtla Gutiérrez",
+                "Ambito":"U",
+                "lat_decimal":"16.75397200",
+                "lon_decimal":"-93.11519200",
+                "PoblacionTotal":"537102",
+                "PoblacionMasculina":"255879",
+                "PoblacionFemenina":"281223",
+                "TotalViviendasHabitadas":"140069"
+
+            },
+            "created_at": "19/4/2020 19:47:29",
+            "updated_at": "19/4/2020 19:47:29",
+            "UserCreated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            },
+            "UserUpdated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            }
+        },
+        {
+            "id": "36",
+            "CURP": "",
+            "Nombre": "OSMAR",
+            "Paterno": "SIMOTA",
+            "Materno": "LAZARO",
+            "Sexo": "M",
+            "FechaNacimiento": "1992-02-19",
+            "idEntidadNacimiento": {
+                "id":"7",
+                "Estado": "Chiapas",
+                "Clave": "07"
+            },
+            "TelCasa": "",
+            "TelCelular": "9611350301",
+            "Calle": "AV. 1 OTE",
+            "NumExt": "5718",
+            "NumInt": "",
+            "Colonia": "COL. CENTRO",
+            "CP": "29000",
+            "idMunicipio": {
+                "id": 92,
+                "Municipio":"Tuxtla Gutierrez",
+                "Clave":"101"
+            },
+            "idLocalidad": {
+                "mapa":"071010001",
+                "idEstado": 7,
+                "cve_ent": "07",
+                "Entidad": "CHIAPAS",
+                "nom_abr":"Chis.",
+                "idMunicipio": 92,
+                "cve_mun":"101",
+                "Municipio":"Tuxtla Gutiérrez",
+                "cve_loc":"0001",
+                "nom_loc":"Tuxtla Gutiérrez",
+                "Ambito":"U",
+                "lat_decimal":"16.75397200",
+                "lon_decimal":"-93.11519200",
+                "PoblacionTotal":"537102",
+                "PoblacionMasculina":"255879",
+                "PoblacionFemenina":"281223",
+                "TotalViviendasHabitadas":"140069"
+
+            },
+            "created_at": "19/4/2020 19:47:29",
+            "updated_at": "19/4/2020 19:47:29",
+            "UserCreated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            },
+            "UserUpdated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            }
+        },
+        {
+            "id": "37",
+            "CURP": "",
+            "Nombre": "MANUEL ANTONIO",
+            "Paterno": "ALEJANDRO ",
+            "Materno": "RAMOS",
+            "Sexo": "M",
+            "FechaNacimiento": "1982-02-19",
+            "idEntidadNacimiento": {
+                "id":"7",
+                "Estado": "Chiapas",
+                "Clave": "07"
+            },
+            "TelCasa": "",
+            "TelCelular": "5573695957",
+            "Calle": "C. RIVERA CANELO",
+            "NumExt": "NA",
+            "NumInt": "",
+            "Colonia": "COL OBREGON",
+            "CP": "29120",
+            "idMunicipio": "102",
+            "idLocalidad": "070790003",
+            "created_at": "19/4/2020 19:47:29",
+            "updated_at": "19/4/2020 19:47:29",
+            "UserCreated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            },
+            "UserUpdated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            }
+        },
+        {
+            "id": "38",
+            "CURP": "",
+            "Nombre": "HUGO",
+            "Paterno": "CONDE",
+            "Materno": "PEREZ",
+            "Sexo": "M",
+            "FechaNacimiento": "1982-02-19",
+            "idEntidadNacimiento": {
+                "id":"7",
+                "Estado": "Chiapas",
+                "Clave": "07"
+            },
+            "TelCasa": "",
+            "TelCelular": "5520347491",
+            "Calle": "2A NTE PTE",
+            "NumExt": "32",
+            "NumInt": "",
+            "Colonia": "COL. CENTRO",
+            "CP": "29000",
+            "idMunicipio": {
+                "id": 92,
+                "Municipio":"Tuxtla Gutierrez",
+                "Clave":"101"
+            },
+            "idLocalidad": {
+                "mapa":"071010001",
+                "idEstado": 7,
+                "cve_ent": "07",
+                "Entidad": "CHIAPAS",
+                "nom_abr":"Chis.",
+                "idMunicipio": 92,
+                "cve_mun":"101",
+                "Municipio":"Tuxtla Gutiérrez",
+                "cve_loc":"0001",
+                "nom_loc":"Tuxtla Gutiérrez",
+                "Ambito":"U",
+                "lat_decimal":"16.75397200",
+                "lon_decimal":"-93.11519200",
+                "PoblacionTotal":"537102",
+                "PoblacionMasculina":"255879",
+                "PoblacionFemenina":"281223",
+                "TotalViviendasHabitadas":"140069"
+
+            },
+            "created_at": "19/4/2020 19:47:29",
+            "updated_at": "19/4/2020 19:47:29",
+            "UserCreated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            },
+            "UserUpdated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            }
+        },
+        {
+            "id": "39",
+            "CURP": "",
+            "Nombre": "MARTIN NAZARIO",
+            "Paterno": "PEREZ",
+            "Materno": "LULE",
+            "Sexo": "M",
+            "FechaNacimiento": "2000-02-19",
+            "idEntidadNacimiento": {
+                "id":"7",
+                "Estado": "Chiapas",
+                "Clave": "07"
+            },
+            "TelCasa": "",
+            "TelCelular": "9616589739",
+            "Calle": "C. PICHUCALCO",
+            "NumExt": "238",
+            "NumInt": "DEPTO 8",
+            "Colonia": "COL AZTECA",
+            "CP": "29096",
+            "idMunicipio": {
+                "id": 92,
+                "Municipio":"Tuxtla Gutierrez",
+                "Clave":"101"
+            },
+            "idLocalidad": {
+                "mapa":"071010001",
+                "idEstado": 7,
+                "cve_ent": "07",
+                "Entidad": "CHIAPAS",
+                "nom_abr":"Chis.",
+                "idMunicipio": 92,
+                "cve_mun":"101",
+                "Municipio":"Tuxtla Gutiérrez",
+                "cve_loc":"0001",
+                "nom_loc":"Tuxtla Gutiérrez",
+                "Ambito":"U",
+                "lat_decimal":"16.75397200",
+                "lon_decimal":"-93.11519200",
+                "PoblacionTotal":"537102",
+                "PoblacionMasculina":"255879",
+                "PoblacionFemenina":"281223",
+                "TotalViviendasHabitadas":"140069"
+
+            },
+            "created_at": "19/4/2020 19:47:29",
+            "updated_at": "19/4/2020 19:47:29",
+            "UserCreated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            },
+            "UserUpdated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            }
+        },
+        {
+            "id": "40",
+            "CURP": "",
+            "Nombre": "PAULA",
+            "Paterno": "LULE",
+            "Materno": "ALVARADO",
+            "Sexo": "F",
+            "FechaNacimiento": "1977-02-19",
+            "idEntidadNacimiento": {
+                "id":"7",
+                "Estado": "Chiapas",
+                "Clave": "07"
+            },
+            "TelCasa": "",
+            "TelCelular": "9613276002",
+            "Calle": "C. PICHUCALCO",
+            "NumExt": "238",
+            "NumInt": "DEPTO 8",
+            "Colonia": "COL AZTECA",
+            "CP": "29096",
+            "idMunicipio": {
+                "id": 92,
+                "Municipio":"Tuxtla Gutierrez",
+                "Clave":"101"
+            },
+            "idLocalidad": {
+                "mapa":"071010001",
+                "idEstado": 7,
+                "cve_ent": "07",
+                "Entidad": "CHIAPAS",
+                "nom_abr":"Chis.",
+                "idMunicipio": 92,
+                "cve_mun":"101",
+                "Municipio":"Tuxtla Gutiérrez",
+                "cve_loc":"0001",
+                "nom_loc":"Tuxtla Gutiérrez",
+                "Ambito":"U",
+                "lat_decimal":"16.75397200",
+                "lon_decimal":"-93.11519200",
+                "PoblacionTotal":"537102",
+                "PoblacionMasculina":"255879",
+                "PoblacionFemenina":"281223",
+                "TotalViviendasHabitadas":"140069"
+
+            },
+            "created_at": "19/4/2020 19:47:29",
+            "updated_at": "19/4/2020 19:47:29",
+            "UserCreated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            },
+            "UserUpdated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            }
+        },
+        {
+            "id": "41",
+            "CURP": "",
+            "Nombre": "RENE",
+            "Paterno": "SOLIS",
+            "Materno": "COUTIÑO",
+            "Sexo": "M",
+            "FechaNacimiento": "1977-02-19",
+            "idEntidadNacimiento": {
+                "id":"7",
+                "Estado": "Chiapas",
+                "Clave": "07"
+            },
+            "TelCasa": "",
+            "TelCelular": "96133799640",
+            "Calle": "AVE. FLAMINGO ",
+            "NumExt": "671",
+            "NumInt": "",
+            "Colonia": "COL. LOS PAJAROS",
+            "CP": "29096",
+            "idMunicipio": {
+                "id": 92,
+                "Municipio":"Tuxtla Gutierrez",
+                "Clave":"101"
+            },
+            "idLocalidad": {
+                "mapa":"071010001",
+                "idEstado": 7,
+                "cve_ent": "07",
+                "Entidad": "CHIAPAS",
+                "nom_abr":"Chis.",
+                "idMunicipio": 92,
+                "cve_mun":"101",
+                "Municipio":"Tuxtla Gutiérrez",
+                "cve_loc":"0001",
+                "nom_loc":"Tuxtla Gutiérrez",
+                "Ambito":"U",
+                "lat_decimal":"16.75397200",
+                "lon_decimal":"-93.11519200",
+                "PoblacionTotal":"537102",
+                "PoblacionMasculina":"255879",
+                "PoblacionFemenina":"281223",
+                "TotalViviendasHabitadas":"140069"
+
+            },
+            "created_at": "19/4/2020 19:47:29",
+            "updated_at": "19/4/2020 19:47:29",
+            "UserCreated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            },
+            "UserUpdated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            }
+        },
+        {
+            "id": "42",
+            "CURP": "",
+            "Nombre": "EMMA",
+            "Paterno": "RAMIREZ",
+            "Materno": "HERRERA",
+            "Sexo": "F",
+            "FechaNacimiento": "1950-02-19",
+            "idEntidadNacimiento": {
+                "id":"7",
+                "Estado": "Chiapas",
+                "Clave": "07"
+            },
+            "TelCasa": "",
+            "TelCelular": "9613379964",
+            "Calle": "AVE. FLAMINGO ",
+            "NumExt": "671",
+            "NumInt": "",
+            "Colonia": "COL. LOS PAJAROS",
+            "CP": "29096",
+            "idMunicipio": {
+                "id": 92,
+                "Municipio":"Tuxtla Gutierrez",
+                "Clave":"101"
+            },
+            "idLocalidad": {
+                "mapa":"071010001",
+                "idEstado": 7,
+                "cve_ent": "07",
+                "Entidad": "CHIAPAS",
+                "nom_abr":"Chis.",
+                "idMunicipio": 92,
+                "cve_mun":"101",
+                "Municipio":"Tuxtla Gutiérrez",
+                "cve_loc":"0001",
+                "nom_loc":"Tuxtla Gutiérrez",
+                "Ambito":"U",
+                "lat_decimal":"16.75397200",
+                "lon_decimal":"-93.11519200",
+                "PoblacionTotal":"537102",
+                "PoblacionMasculina":"255879",
+                "PoblacionFemenina":"281223",
+                "TotalViviendasHabitadas":"140069"
+
+            },
+            "created_at": "19/4/2020 19:47:29",
+            "updated_at": "19/4/2020 19:47:29",
+            "UserCreated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            },
+            "UserUpdated": {
+                "id":1,
+                "email":"9612332915",
+                "Nombre":"Christian Rodolfo",
+                "Paterno":"Nuñez",
+                "Materno":"Gamas",
+                "idTipoUser":{
+                    "id":"1",
+                    "TipoUser":"Administrador",
+                    "Clave":"A"
+                },
+                "Cedula":"",
+                "Especialidad":"ISC",
+                "idClues":{
+                    "id":56484,
+                    "CLUES":"CSPOLIFORUM",
+                    "NombreMunicipio":"TUXTLA GUTIERREZ",
+                    "ClaveMunicipio":"101",
+                    "NombreUnidad":"CLÍNICA DE ENFERMEDADES RESPIRATORIAS COVID-19"
+                }
+            }
+        }
+    ]
+}

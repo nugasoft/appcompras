@@ -1,0 +1,280 @@
+{
+    "Municipios": [
+        {
+            "Id": "1",
+            "Nombre": "ABASOLO",
+            "Region": "4",
+            "SubRegion": "4"
+        },
+        {
+            "Id": "2",
+            "Nombre": "ACAMBARO",
+            "Region": "5",
+            "SubRegion": "5"
+        },
+        {
+            "Id": "3",
+            "Nombre": "SAN MIGUEL DE ALLENDE",
+            "Region": "2",
+            "SubRegion": "2"
+        },
+        {
+            "Id": "4",
+            "Nombre": "APASEO EL ALTO",
+            "Region": "6",
+            "SubRegion": "6"
+        },
+        {
+            "Id": "5",
+            "Nombre": "APASEO EL GRANDE",
+            "Region": "6",
+            "SubRegion": "6"
+        },
+        {
+            "Id": "6",
+            "Nombre": "ATARJEA",
+            "Region": "1",
+            "SubRegion": "1"
+        },
+        {
+            "Id": "7",
+            "Nombre": "CELAYA",
+            "Region": "6",
+            "SubRegion": "6"
+        },
+        {
+            "Id": "8",
+            "Nombre": "MANUEL DOBLADO",
+            "Region": "4",
+            "SubRegion": "4"
+        },
+        {
+            "Id": "9",
+            "Nombre": "COMONFORT",
+            "Region": "6",
+            "SubRegion": "6"
+        },
+        {
+            "Id": "10",
+            "Nombre": "CORONEO",
+            "Region": "5",
+            "SubRegion": "5"
+        },
+        {
+            "Id": "11",
+            "Nombre": "CORTAZAR",
+            "Region": "6",
+            "SubRegion": "6"
+        },
+        {
+            "Id": "12",
+            "Nombre": "CUERAMARO",
+            "Region": "4",
+            "SubRegion": "4"
+        },
+        {
+            "Id": "13",
+            "Nombre": "DOCTOR MORA",
+            "Region": "1",
+            "SubRegion": "1"
+        },
+        {
+            "Id": "14",
+            "Nombre": "DOLORES HIDALGO CUNA DE LA INDEPENDENCIA NAL.",
+            "Region": "2",
+            "SubRegion": "2"
+        },
+        {
+            "Id": "15",
+            "Nombre": "GUANAJUATO",
+            "Region": "3",
+            "SubRegion": "3"
+        },
+        {
+            "Id": "16",
+            "Nombre": "HUANIMARO",
+            "Region": "4",
+            "SubRegion": "4"
+        },
+        {
+            "Id": "17",
+            "Nombre": "IRAPUATO",
+            "Region": "3",
+            "SubRegion": "3"
+        },
+        {
+            "Id": "18",
+            "Nombre": "JARAL DEL PROGRESO",
+            "Region": "5",
+            "SubRegion": "5"
+        },
+        {
+            "Id": "19",
+            "Nombre": "JERECUARO",
+            "Region": "5",
+            "SubRegion": "5"
+        },
+        {
+            "Id": "20",
+            "Nombre": "LEON",
+            "Region": "3",
+            "SubRegion": "7"
+        },
+        {
+            "Id": "21",
+            "Nombre": "MOROLEON",
+            "Region": "5",
+            "SubRegion": "5"
+        },
+        {
+            "Id": "22",
+            "Nombre": "OCAMPO",
+            "Region": "2",
+            "SubRegion": "2"
+        },
+        {
+            "Id": "23",
+            "Nombre": "PENJAMO",
+            "Region": "4",
+            "SubRegion": "4"
+        },
+        {
+            "Id": "24",
+            "Nombre": "PUEBLO NUEVO",
+            "Region": "4",
+            "SubRegion": "4"
+        },
+        {
+            "Id": "25",
+            "Nombre": "PURISIMA DEL RINCON",
+            "Region": "3",
+            "SubRegion": "3"
+        },
+        {
+            "Id": "26",
+            "Nombre": "ROMITA",
+            "Region": "3",
+            "SubRegion": "3"
+        },
+        {
+            "Id": "27",
+            "Nombre": "SALAMANCA",
+            "Region": "3",
+            "SubRegion": "3"
+        },
+        {
+            "Id": "28",
+            "Nombre": "SALVATIERRA",
+            "Region": "5",
+            "SubRegion": "5"
+        },
+        {
+            "Id": "29",
+            "Nombre": "SAN DIEGO DE LA UNION",
+            "Region": "2",
+            "SubRegion": "2"
+        },
+        {
+            "Id": "30",
+            "Nombre": "SAN FELIPE",
+            "Region": "2",
+            "SubRegion": "2"
+        },
+        {
+            "Id": "31",
+            "Nombre": "SAN FRANCISCO DEL RINCON",
+            "Region": "3",
+            "SubRegion": "3"
+        },
+        {
+            "Id": "32",
+            "Nombre": "SAN JOSE ITURBIDE",
+            "Region": "1",
+            "SubRegion": "1"
+        },
+        {
+            "Id": "33",
+            "Nombre": "SAN LUIS DE LA PAZ",
+            "Region": "1",
+            "SubRegion": "1"
+        },
+        {
+            "Id": "34",
+            "Nombre": "SANTA CATARINA",
+            "Region": "1",
+            "SubRegion": "1"
+        },
+        {
+            "Id": "35",
+            "Nombre": "SANTA CRUZ DE JUVENTINO ROSAS",
+            "Region": "6",
+            "SubRegion": "6"
+        },
+        {
+            "Id": "36",
+            "Nombre": "SANTIAGO MARAVATIO",
+            "Region": "5",
+            "SubRegion": "1"
+        },
+        {
+            "Id": "37",
+            "Nombre": "SILAO",
+            "Region": "3",
+            "SubRegion": "3"
+        },
+        {
+            "Id": "38",
+            "Nombre": "TARANDACUAO",
+            "Region": "5",
+            "SubRegion": "5"
+        },
+        {
+            "Id": "39",
+            "Nombre": "TARIMORO",
+            "Region": "6",
+            "SubRegion": "6"
+        },
+        {
+            "Id": "40",
+            "Nombre": "TIERRA BLANCA",
+            "Region": "1",
+            "SubRegion": "1"
+        },
+        {
+            "Id": "41",
+            "Nombre": "URIANGATO",
+            "Region": "5",
+            "SubRegion": "5"
+        },
+        {
+            "Id": "42",
+            "Nombre": "VALLE DE SANTIAGO",
+            "Region": "4",
+            "SubRegion": "4"
+        },
+        {
+            "Id": "43",
+            "Nombre": "VICTORIA",
+            "Region": "1",
+            "SubRegion": "1"
+        },
+        {
+            "Id": "44",
+            "Nombre": "VILLAGRAN",
+            "Region": "6",
+            "SubRegion": "6"
+        },
+        {
+            "Id": "45",
+            "Nombre": "XICHU",
+            "Region": "1",
+            "SubRegion": "1"
+        },
+        {
+            "Id": "46",
+            "Nombre": "YURIRIA",
+            "Region": "5",
+            "SubRegion": "5"
+        }
+    ]
+}
